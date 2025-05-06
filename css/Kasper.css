@@ -1016,11 +1016,11 @@ header nav .form i{
 .contact .content .info{
     flex-basis: 25%;
 }
-@media(max-width:767px){
+/* @media(max-width:767px){
     .contact .content .info{
-        /* order: -1; */
+        order: -1;
     }
-}
+} */
 .contact .content .info h4{
     text-transform: uppercase;
     margin-bottom: 30px;
@@ -1091,7 +1091,7 @@ header nav .form i{
 .footer .copyright{
     margin-top: 60px;
 }
-.footer .social-icon i{
+.footer i{
     padding: 10px 15px;
 }
 .footer span{
